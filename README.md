@@ -17,21 +17,22 @@ A fully functional Chess Game built with Python, featuring a graphical user inte
   - Prerequisites
   - Make sure you have Python and Pygame installed:
 
-bash```
+ ```bash
 pip install pygame
-
-bash```
+```
+ ```bash
 python main.py
+```
 
 ## 📁 Project Structure
-bash```
+ ```bash
 chess-game-python/
 ├── main.py           # Entry point for the game
 ├── game.py           # Game logic and rules
 ├── board.py          # Board and piece handling
 ├── assets/           # Images and resources
 └── README.md         # Project documentation
-
+```
 ### 🎮 Screenshots
 Add a few in-game screenshots here if available
 
